@@ -1,0 +1,19 @@
+{
+  "name": "check",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/surajdhande/check.git"
+  },
+  "author": "Suraj Dhande",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/surajdhande/check/issues"
+  },
+  "homepage": "https://github.com/surajdhande/check#readme"
+}
