@@ -3,5 +3,5 @@ WORKDIR /app
 COPY package.json /start
 RUN npm install
 COPY . /app
-CMD node server.js
+CMD node serverscrip.js
 EXPOSE 4141
